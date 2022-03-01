@@ -1,5 +1,5 @@
 <h1 align="center">
-    ioasys Pokedéx
+    ioasys Pokédex
 </h1>
 
 <p align="center">Esse projeto foi desenvolvido como desafio da trilha Front-end do ioasys Camp e entregue no dia 01/03/2022.</p>
