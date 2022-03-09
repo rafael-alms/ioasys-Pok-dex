@@ -16,7 +16,7 @@
 # Sobre 📋
 
 <h4 align="center">
-🚧  Projeto ioasys Pokédex 🚀 Em construção...  🚧
+🚧  Projeto ioasys Pokédex 🚧
 </h4>
 
 
