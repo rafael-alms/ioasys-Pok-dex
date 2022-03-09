@@ -2,7 +2,7 @@
     ioasys Pokédex
 </h1>
 
-<p align="center">Esse projeto foi desenvolvido como desafio da trilha Front-end do ioasys Camp e entregue no dia 01/03/2022.</p>
+<p align="center">Esse projeto foi desenvolvido como desafio da trilha Front-end do 4º ioasys Camp.</p>
 
 # Tabela de conteúdos 🔖
 
